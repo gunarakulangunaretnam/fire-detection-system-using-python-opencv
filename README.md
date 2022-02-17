@@ -29,5 +29,4 @@ The fire detection system is a security system. The primary function of this sys
   * [Facebook Profile](https://www.facebook.com/gunarakulan)
   * [Twitter Profile](https://twitter.com/gunarakulang)
   * [Instagram Profile](https://www.instagram.com/gunarakulan_gunaretnam/)
-  * [Instagram Profile](https://www.instagram.com/gunarakulan_gunaretnam/)
   * [YouTube Channel](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA/videos)
