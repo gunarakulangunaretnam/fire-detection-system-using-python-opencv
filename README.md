@@ -20,3 +20,14 @@ The fire detection system is a security system. The primary function of this sys
   ```
     python fire-detector.py
   ```
+
+
+  Any Questions? | Conduct Me
+  ---
+
+  * [Linkedin Profile](https://www.linkedin.com/in/gunarakulan-gunaretnam-161119156/)
+  * [Facebook Profile](https://www.facebook.com/gunarakulan)
+  * [Twitter Profile](https://twitter.com/gunarakulang)
+  * [Instagram Profile](https://www.instagram.com/gunarakulan_gunaretnam/)
+  * [Instagram Profile](https://www.instagram.com/gunarakulan_gunaretnam/)
+  * [YouTube Channel](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA/videos)
