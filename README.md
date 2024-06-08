@@ -57,6 +57,15 @@ We want to convert the image to HSV because working with HSV values is much easi
 
 [![Website](https://img.shields.io/badge/WEBSITE%3A%20www.gunarakulan.info-%23E01E5A?style=for-the-badge&logo=realm&logoColor=white)](http://www.gunarakulan.info)
 
+[![Website](https://img.shields.io/badge/WEBSITE%3A%20www.gunarakulan.info-%23E01E5A?style=plastic&logo=realm&logoColor=white)](http://www.gunarakulan.info)
+
+[![Website](https://img.shields.io/badge/WEBSITE%3A%20www.gunarakulan.info-%23E01E5A?style=flat&logo=realm&logoColor=white)](http://www.gunarakulan.info)
+
+[![Website](https://img.shields.io/badge/WEBSITE%3A%20www.gunarakulan.info-%23E01E5A?style=flat-square&logo=realm&logoColor=white)](http://www.gunarakulan.info)
+
+[![Website](https://img.shields.io/badge/WEBSITE%3A%20www.gunarakulan.info-%23E01E5A?style=social&logo=realm&logoColor=white)](http://www.gunarakulan.info)
+
+
 ### Social Media:
 
 
