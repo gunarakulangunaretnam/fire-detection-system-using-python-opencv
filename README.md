@@ -55,19 +55,9 @@ We want to convert the image to HSV because working with HSV values is much easi
 
 ### Website: 
 
-[![Website](https://img.shields.io/badge/WEBSITE%3A%20www.gunarakulan.info-%23E01E5A?style=for-the-badge&logo=realm&logoColor=white)](http://www.gunarakulan.info)
-
-[![Website](https://img.shields.io/badge/WEBSITE%3A%20www.gunarakulan.info-%23E01E5A?style=plastic&logo=realm&logoColor=white)](http://www.gunarakulan.info)
-
 [![Website](https://img.shields.io/badge/WEBSITE%3A%20www.gunarakulan.info-%23E01E5A?style=flat&logo=realm&logoColor=white)](http://www.gunarakulan.info)
 
-[![Website](https://img.shields.io/badge/WEBSITE%3A%20www.gunarakulan.info-%23E01E5A?style=flat-square&logo=realm&logoColor=white)](http://www.gunarakulan.info)
-
-[![Website](https://img.shields.io/badge/WEBSITE%3A%20www.gunarakulan.info-%23E01E5A?style=social&logo=realm&logoColor=white)](http://www.gunarakulan.info)
-
-
 ### Social Media:
-
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunarakulangunaretnam)
 [![Facebook](https://img.shields.io/badge/-Facebook-196dcc?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gunarakulangunaretnam)
