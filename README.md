@@ -55,9 +55,7 @@ We want to convert the image to HSV because working with HSV values is much easi
 
 ### Website:
 
-[![Website](https://img.shields.io/badge/-Website-%23E01E5A?style=for-the-badge&logo=realm&logoColor=white)](http://www.gunarakulan.info) &nbsp; [www.gunarakulan.info](http://www.gunarakulan.info)
-
-
+[![Website](https://img.shields.io/badge/-Website-%23E01E5A?style=for-the-badge&logo=realm&logoColor=white)](http://www.gunarakulan.info) [www.gunarakulan.info](http://www.gunarakulan.info)
 
 
 ### Social Media:
