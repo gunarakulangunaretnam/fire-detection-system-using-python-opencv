@@ -53,7 +53,7 @@ We want to convert the image to HSV because working with HSV values is much easi
 
 # CONTACT
 
-[![Website](https://img.shields.io/badge/-Website-%23E01E5A?style=flat-square&logo=globe)](http://www.gunarakulan.info)
+[![Website](https://img.shields.io/badge/-Website-%23E01E5A?style=flat-square)](http://www.gunarakulan.info)
 
 Social Media:
 
@@ -65,6 +65,3 @@ Social Media:
 [![Kaggle](https://img.shields.io/badge/-Kaggle-3295bd?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/gunarakulangr)
 [![TikTok](https://img.shields.io/badge/-TikTok-579ea3?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@gunarakulangunaretnam)
 [![YouTube](https://img.shields.io/badge/-YouTube-a82121?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjMOdgHFAjAdBKiqV8y2Tww)
-
-
-
