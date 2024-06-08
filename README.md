@@ -53,9 +53,12 @@ We want to convert the image to HSV because working with HSV values is much easi
 
 # CONTACT
 
-[![Website](https://img.shields.io/badge/-Website-%23E01E5A?style=for-the-badge&logo=realm&logoColor=white)](http://www.gunarakulan.info)
+### Website:
 
-Social Media:
+[![Website](https://img.shields.io/badge/-Website-%23E01E5A?style=for-the-badge&logo=realm&logoColor=white)](http://www.gunarakulan.info) [www.gunarakulan.info](http://www.gunarakulan.info)
+
+
+### Social Media:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunarakulangunaretnam)
 [![Facebook](https://img.shields.io/badge/-Facebook-196dcc?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gunarakulangunaretnam)
