@@ -53,15 +53,15 @@ We want to convert the image to HSV because working with HSV values is much easi
 
 # CONTACT
 
-[![Website](https://img.shields.io/badge/-Website-%23E01E5A?style=flat-square&logo=realm&logoColor=white)](http://www.gunarakulan.info)
+[![Website](https://img.shields.io/badge/-Website-%23E01E5A?style=for-the-badge&logo=realm&logoColor=white)](http://www.gunarakulan.info)
 
 Social Media:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunarakulangunaretnam)
-[![Facebook](https://img.shields.io/badge/-Facebook-196dcc?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/gunarakulangunaretnam)
-[![Instagram](https://img.shields.io/badge/-Instagram-bd3651?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gunarakulangunaretnam)
-[![X.COM](https://img.shields.io/badge/-X.COM-0066ff?style=flat-square&logo=x&logoColor=white)](https://x.com/gunarakulangr)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-07a647?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/94740001141)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-3295bd?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/gunarakulangr)
-[![TikTok](https://img.shields.io/badge/-TikTok-579ea3?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@gunarakulangunaretnam)
-[![YouTube](https://img.shields.io/badge/-YouTube-a82121?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjMOdgHFAjAdBKiqV8y2Tww)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunarakulangunaretnam)
+[![Facebook](https://img.shields.io/badge/-Facebook-196dcc?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gunarakulangunaretnam)
+[![Instagram](https://img.shields.io/badge/-Instagram-bd3651?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gunarakulangunaretnam)
+[![X.COM](https://img.shields.io/badge/-X.COM-0066ff?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gunarakulangr)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-07a647?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94740001141)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-3295bd?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/gunarakulangr)
+[![TikTok](https://img.shields.io/badge/-TikTok-579ea3?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@gunarakulangunaretnam)
+[![YouTube](https://img.shields.io/badge/-YouTube-a82121?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjMOdgHFAjAdBKiqV8y2Tww)
