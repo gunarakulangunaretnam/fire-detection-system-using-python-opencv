@@ -1,4 +1,4 @@
-# FIRE DETECTION SYSTEM IN PYTHON USING HSV COLOR
+# Fire Detection System In Python Using HSV Color
 
 
 ## Introduction
@@ -51,7 +51,7 @@ We want to convert the image to HSV because working with HSV values is much easi
     python fire-detector.py
   ```
 
-# CONTACT
+# Contact
 
 ### Website: 
 
